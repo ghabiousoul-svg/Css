@@ -1,0 +1,25 @@
+img {
+    width: 350px;
+}
+#first {
+    color: red;
+    border: 1px solid black;
+}
+
+#second {
+    color: blue;
+}
+#third {
+    color: green;
+}
+#fourth {
+    color: orange;
+}
+
+.card{
+    border: 3px solid purple;
+    max-width: 350px;
+    padding: 20px;
+    margin: 20px;
+
+}
